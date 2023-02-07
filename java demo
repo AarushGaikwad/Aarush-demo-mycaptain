@@ -1,0 +1,9 @@
+import java.util.*;
+
+class Demo
+{
+  public static void main
+  {
+     System.out.println("Aarush")
+  }
+)  
